@@ -1,0 +1,23 @@
+{
+  "name": "great-bay",
+  "version": "1.0.0",
+  "description": "CLI application where users can create and bid on assorted items, tasks, jobs, or projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunsushi/great-bay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bunsushi/great-bay/issues"
+  },
+  "homepage": "https://github.com/bunsushi/great-bay#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
